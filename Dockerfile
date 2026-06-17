@@ -1,0 +1,1 @@
+FROM docker.io/cucker/get_command_4_run_container:latest
